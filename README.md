@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
+  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://i.imgur.com/opo3CXn.gif" alt="Zard Community"></a>
   <br>
   Red Discord Bot
   <br>
 </h1>
 
-<h4 align="center">Music, Moderation, Trivia, Stream Alerts and Fully Modular.</h4>
+<h4 align="center">A fantastic global community, stream alerts, games and more.</h4>
 
 <p align="center">
   <a href="https://discord.gg/DfGvMBbMyp">
