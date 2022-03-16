@@ -9,6 +9,8 @@
 <h4 align="center">A fantastic global community, stream alerts, games and more.</h4>
 
 <p align="center">
-  <a href="https://discord.gg/DfGvMBbMyp">
-    <img src="https://discordapp.com/api/guilds/952679154745241640/widget.png?style=shield" alt="Discord Server">
-  </a> 
+
+<p align="center">
+  •
+  <a href="#join-the-community">Community</a>
+</p>
