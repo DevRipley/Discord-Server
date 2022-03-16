@@ -1,2 +1,14 @@
-# Hi there, this is my discord server! <img src="https://mpng.subpng.com/20180816/qo/kisspng-discord-logo-twitch-tv-instant-messaging-gamer-approxeng-approximate-engineering-arduino-pi-c-5b74f70ac95556.7086990915343920748247.jpg" width="150px">
-### Discord Server: https://discord.gg/DfGvMBbMyp
+<h1 align="center">
+  <br>
+  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
+  <br>
+  Red Discord Bot
+  <br>
+</h1>
+
+<h4 align="center">Music, Moderation, Trivia, Stream Alerts and Fully Modular.</h4>
+
+<p align="center">
+  <a href="https://discord.gg/DfGvMBbMyp">
+    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
+  </a> 
