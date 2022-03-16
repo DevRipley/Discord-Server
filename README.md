@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://i.imgur.com/opo3CXn.gif" alt="Zard Community"></a>
+  <a href="https://discord.gg/DfGvMBbMyp"><img src="https://i.imgur.com/opo3CXn.gif" alt="Zard Community"></a>
   <br>
-  Red Discord Bot
+  Zard Discord Community
   <br>
 </h1>
 
