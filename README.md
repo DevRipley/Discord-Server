@@ -1,2 +1,2 @@
-# Hi there, this is my discord server! <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="35px">
+# Hi there, this is my discord server! <img src="https://mpng.subpng.com/20180816/qo/kisspng-discord-logo-twitch-tv-instant-messaging-gamer-approxeng-approximate-engineering-arduino-pi-c-5b74f70ac95556.7086990915343920748247.jpg" width="35px">
 ### Discord Server: https://discord.gg/DfGvMBbMyp
