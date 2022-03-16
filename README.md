@@ -12,5 +12,5 @@
 
 <p align="center">
   •
-  <a href="#join-the-community">Community</a>
+  <a href="https://discord.gg/DfGvMBbMyp">Community</a>
 </p>
